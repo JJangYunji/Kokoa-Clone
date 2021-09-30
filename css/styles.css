@@ -3,6 +3,7 @@
 @import "screens/login.css";
 @import "components/nav_bar.css";
 @import "components/screen-header.css";
+@import "screens/friends.css";
 
 @font-face {
   font-family: "HSYuji-Regular";
