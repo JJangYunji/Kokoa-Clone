@@ -4,6 +4,8 @@
 @import "components/nav_bar.css";
 @import "components/screen-header.css";
 @import "screens/friends.css";
+@import "components/user-component.css";
+@import "components/variables.css";
 
 @font-face {
   font-family: "HSYuji-Regular";
