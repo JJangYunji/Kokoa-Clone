@@ -4,9 +4,12 @@
   background-color: #fafafa;
   padding: 15px 0;
   color: #2e363e;
-  margin-top: 20px;
 }
 
 #frineds-display-link i {
   color: rgba(0, 0, 0, 0.3);
+}
+
+.friends-screen {
+  padding: 0px 25px;
 }
