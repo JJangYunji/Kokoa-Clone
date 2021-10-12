@@ -11,6 +11,8 @@
 @import "components/icon-raw.css";
 @import "screens/more.css";
 @import "components/alt-screen-header.css";
+@import "screens/settings.css";
+@import "screens/chat.css";
 
 @font-face {
   font-family: "HSYuji-Regular";
